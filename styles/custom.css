@@ -221,7 +221,7 @@ body{background-image: none; background-position: initial initial; background-re
 
 #divTagLine {font-family: 'Century Gothic', sans-serif; font-size: 12px; text-transform: uppercase; letter-spacing: 5px; line-height: 22px; color: rgb(255, 255, 255); text-shadow: none; padding-left: 3px; padding-right: 3px; font-weight: normal; font-style: normal;}
 
-.navContainer {margin-top: 0px; }
+.navContainer {margin-top: 50px; }
 
 .navContainer .navMenu {}
 
